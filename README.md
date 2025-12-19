@@ -4,5 +4,7 @@ This repository serves as a comprehensive guide and documentation for the 012053
 Expo_DCW50_100_50.zip is the Sonnet geometry zip file.
 
 Proj.zip is the the Sonnet netlist zip file.
+
 Ratchaphon.s2p is the actual tested performance of the Tapered Line, it can be opened using Sonnet as well.
+
 EasyEDA : https://easyeda.com/editor#project_id=e29c69003d064452bf1692379f07e72c
